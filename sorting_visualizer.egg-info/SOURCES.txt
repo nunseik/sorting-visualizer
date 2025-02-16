@@ -1,0 +1,15 @@
+setup.py
+algorithms/__init__.py
+algorithms/base.py
+algorithms/implementations.py
+sorting_visualizer.egg-info/PKG-INFO
+sorting_visualizer.egg-info/SOURCES.txt
+sorting_visualizer.egg-info/dependency_links.txt
+sorting_visualizer.egg-info/requires.txt
+sorting_visualizer.egg-info/top_level.txt
+ui/__init__.py
+ui/custom_widgets.py
+ui/main_window.py
+ui/visualization.py
+utils/__init__.py
+utils/error_handling.py

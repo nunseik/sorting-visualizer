@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: sorting_visualizer
+Version: 1.0.0
+Summary: A sorting algorithm visualization tool
+Author: Your Name
+Author-email: your.email@example.com
+Keywords: sorting,algorithms,visualization
+Requires-Python: >=3.6
+Requires-Dist: PyQt6
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
